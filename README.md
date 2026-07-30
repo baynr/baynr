@@ -55,26 +55,6 @@ Building scalable backend systems with Java, Golang, and event-driven architectu
 
 ------------------------------------------------------------------------
 
-## 📌 Featured Projects
-
-  Project                  Description
-  ------------------------ ---------------------------------------------
-  Vehicle Booking System   Real-time booking, Kafka, Redis, WebSockets
-  inmeterai.id             Java Spring Boot, RabbitMQ
-  Agentic QA               OpenClaw + Playwright + Telegram
-  Portfolio                https://bayunur.com
-
-------------------------------------------------------------------------
-
-## 🌱 Currently Learning
-
--   Distributed Systems
--   System Design
--   Kubernetes
--   Technical English
-
-------------------------------------------------------------------------
-
 ## 📫 Contact
 
 -   Portfolio: https://bayunur.com
