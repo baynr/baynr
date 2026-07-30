@@ -1,14 +1,10 @@
 # Hi there, I'm Bayu Nur Iman 👋
 
-```{=html}
-<h3 align="center">
-```
-Backend-focused Fullstack Developer
-```{=html}
-</h3>
-```
-Building scalable backend systems with Java, Golang, and event-driven
-architecture.
+<h3 align="center">Backend-focused Fullstack Developer</h3>
+
+<p align="center">
+Building scalable backend systems with Java, Golang, and event-driven architecture.
+</p>
 
 **Portfolio:** https://bayunur.com\
 **Email:** baynrdev@gmail.com\
