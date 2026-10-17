@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-Building scalable backend systems with Java, Golang, and event-driven architecture.
+Building scalable backend systems with PHP, Java, and Golang.
 </p>
 
 ------------------------------------------------------------------------
