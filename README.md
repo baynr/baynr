@@ -53,6 +53,4 @@ Building scalable backend systems with Java, Golang, and event-driven architectu
 
 ## 📫 Contact
 
--   Portfolio: https://bayunur.com
 -   Email: baynrdev@gmail.com
--   LinkedIn: https://www.linkedin.com/in/bayu-nur-iman
